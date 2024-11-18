@@ -1,4 +1,3 @@
-// pages/api/fetchData.js
 export default async function handler(req, res) {
     const url = 'https://jsonplaceholder.typicode.com/posts'; // 使用免费的 JSONPlaceholder API
     try {
